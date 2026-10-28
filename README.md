@@ -10,6 +10,15 @@ Answer 1
 Answer 2
 
 
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
 ## Related
 
 Here are some related projects
@@ -24,6 +33,13 @@ Here are some related projects
 👯‍♀️ 3 c I'm looking to collaborate on...
 
 🤔 4 d I'm looking for help with...
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
 
 ## Feedback
 
