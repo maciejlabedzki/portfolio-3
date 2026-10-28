@@ -10,14 +10,31 @@ Answer 1
 Answer 2
 
 
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+
 ## Other Common Github Profile Sections
 👩‍💻 a I'm currently working on...
 
-🧠 b I'm currently learning...
-
 👯‍♀️ c I'm looking to collaborate on...
 
+🧠 b I'm currently learning...
+
 🤔 d I'm looking for help with...
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
 
 ## Feedback
 
